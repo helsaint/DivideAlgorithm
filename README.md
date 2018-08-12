@@ -1,2 +1,2 @@
 # DivideAlgorithm
-Code to divide two integers without the use of multiplication, division, logarithmic or power operators.
+Code to divide two integers without the use of multiplication, division, logarithmic or power operators. To divide without using the division operator we will use the binary shift operator and integer subtraction. The algorithm used is simple binary longdivision. First we will convert negative numbers to positive. This allows for the easy use of the subtraction operator. Java stores all numbers as signed in 2's complement form.
